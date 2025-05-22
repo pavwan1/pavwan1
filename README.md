@@ -25,8 +25,8 @@ Track and manage all your job applications like a pro:
 - Full CRUD on jobs
 - Profile management
 
-🔗 [Frontend](https://github.com/pavwan1/react-job-tracker)  
-🔗 [Backend](https://github.com/pavwan1/flask-job-tracker)
+🔗 [Frontend](https://github.com/pavwan1/Job_Tracker_frontend.git)  
+🔗 [Backend](https://github.com/pavwan1/Job_Tracker.git)
 
 ---
 
